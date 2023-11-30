@@ -3,3 +3,6 @@
 
 yopii
 rashkai
+ssk
+
+print(a)
