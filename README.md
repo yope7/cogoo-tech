@@ -5,4 +5,4 @@ yopii
 rashkai
 ssk
 
-print(abasa)
+print(bas)
