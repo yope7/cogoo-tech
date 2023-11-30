@@ -3,6 +3,6 @@
 
 yopii
 rashkai
-ssk
+sskta
 
 print(bas)
