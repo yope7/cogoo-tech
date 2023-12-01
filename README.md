@@ -3,7 +3,7 @@
 
 yopii
 rashkai
-ssk
+sskta
 
 ブランチAbyのぐてぃ
 変えました
