@@ -5,4 +5,5 @@ yopii
 rashkai
 sskta
 
-print(bas)
+ブランチAbyのぐてぃ
+変えました
